@@ -1,7 +1,7 @@
-## Oiê, sou a Natália Lambert Nivaldo! 🌟
+## Oiê, sou a Natália Lambert! 🌟
 
-- 🔭 Sou estudante do curso técnico em informática integrado ao ensino médio do IFTO 
-- 🌱 Estou estudando para passar em Ciência da Computação na UFT!
+- 🔭 Graduanda em Engenharia de Software pela Universidade de Brasília (UnB)
+- 🌱 Técnica em Informática pelo IFTO Campus Paraíso do Tocantins 
 
  <div>
   <a href="https://github.com/natalialambert">
