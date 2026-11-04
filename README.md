@@ -5,8 +5,6 @@
 
 <div align="center">
   <a href="https://github.com/natalialambert">
-    //<img height="180em" alt="Status do GitHub" src="https://github-readme-stats.vercel.app/api?username=natalialambert&show_icons=true&theme=gruvbox&count_private=true"/>
-    //<img height="180em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalialambert&layout=compact&langs_count=16&theme=gruvbox"/>
   </a>
 </div>
 
