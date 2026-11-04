@@ -5,16 +5,16 @@
 
 <div align="center">
   <a href="https://github.com/natalialambert">
-    <img height="180em" alt="Stats do GitHub" src="https://github-readme-stats.vercel.app/api?username=natalialambert&show_icons=true&theme=gruvbox&count_private=true"/>
-    <img height="180em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalialambert&layout=compact&langs_count=16&theme=gruvbox"/>
+    //<img height="180em" alt="Status do GitHub" src="https://github-readme-stats.vercel.app/api?username=natalialambert&show_icons=true&theme=gruvbox&count_private=true"/>
+    //<img height="180em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalialambert&layout=compact&langs_count=16&theme=gruvbox"/>
   </a>
 </div>
 
 <div style="display: inline-block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
 ##
